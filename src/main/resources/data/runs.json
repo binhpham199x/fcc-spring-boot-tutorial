@@ -71,14 +71,6 @@
       "completedOn": "2024-03-23T02:41:00.000000",
       "miles": 4,
       "location": "INDOOR"
-    },
-    {
-      "id": 10,
-      "title": "Dawn Run",
-      "startedOn": "2024-03-08T01:34:00.000000",
-      "completedOn": "2024-03-08T05:53:00.000000",
-      "miles": 23,
-      "location": "OUTDOOR"
     }
   ]
 }
